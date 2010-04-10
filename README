@@ -1,0 +1,10 @@
+WebDyne::Session is part of the WebDyne module. It works with the
+WebDyne::Chain module to allow easy creation of a unique session ID for each
+user.
+
+WebDyne::Session will only work within WebDyne and will not function as a
+stand-alone module.
+
+See the Webdyne documentation (http://webdyne.org) for more information
+about this module.
+

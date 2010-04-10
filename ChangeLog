@@ -1,0 +1,30 @@
+commit 09a74c4883e5005130a28624accb13225ec14b83
+Author: Andrew Speer <aspeer@copper.isolutions.com.au>
+Date:   Sat Apr 10 16:25:27 2010 +0930
+
+    Tag: WebDyne-Session_1.031
+    
+    Updated copyright notices in prep for CPAN upload.
+
+commit 881994eed739bc3112e88f1c77ad6124e24dde58
+Author: Andrew Speer <aspeer@copper.isolutions.com.au>
+Date:   Sat Apr 10 13:45:36 2010 +0930
+
+    Tag: WebDyne-Session_1.030
+    
+    Cleaned up ready for CPAN release.
+
+commit 366963acfd01eba9ce83e9152f832d5c089c491a
+Author: Andrew Speer <aspeer@silicon.isolutions.com.au>
+Date:   Thu Feb 25 01:04:34 2010 +1030
+
+    Tag: WebDyne-Session_1.29
+    
+    Bring Makefile.PL and file locations into line with other WebDyne modules
+
+commit 457d6bb128e4648167ea146a372019c39b47f274
+Author: Andrew Speer <aspeer@copper.isolutions.com.au>
+Date:   Mon Aug 24 11:57:58 2009 +0930
+
+    MANIFEST import
+
