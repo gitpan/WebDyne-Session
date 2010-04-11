@@ -1,6 +1,7 @@
 #
 #
-#  Copyright (c) 2006-2010 Andrew W. Speer <andrew@webdyne.org>. All rights reserved.
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>.
+#  All rights reserved.
 #
 #  This file is part of WebDyne::Session.
 #
@@ -46,7 +47,7 @@ use CGI::Cookie;
 
 #  Version information
 #
-$VERSION='1.002';
+$VERSION='1.004';
 
 
 #  Shortcut error handler.
@@ -203,23 +204,27 @@ WebDyne::Session - WebDyne extension module that implements browser sessions
 
 =head1 Description
 
-WebDyne::Session is a WebDyne extension module that implements browser sessions. An API provides access to get and set
-session ID's via browser cookies.
+WebDyne::Session is a WebDyne extension module that implements browser
+sessions.  An API provides access to get and set session ID's via browser
+cookies.
 
 =head1 Documentation
 
-Information on configuration and usage is availeble from the WebDyne site, http://webdyne.org/ - or from a snapshot of
-current documentation in PDF format available in the WebDyne module source /doc directory.
+Information on configuration and usage is availeble from the WebDyne site,
+http://webdyne.org/ - or from a snapshot of current documentation in PDF
+format available in the WebDyne module source /doc directory.
 
 =head1 Copyright and License
 
-Webdyne::Chain is Copyright (C) 2006-2010 Andrew W. Speer <andrew@webdyne.org>. WebDyne::Session is dual licensed. It is
-released as free software released under the Gnu Public License (GPL), but is also available for commercial use under a
+Webdyne::Chain is Copyright (C) 2006-2010 Andrew Speer. WebDyne::Session is
+dual licensed.  It is released as free software released under the Gnu
+Public License (GPL), but is also available for commercial use under a
 proprietary license - please contact the author for further information.
 
-WebDyne::Session is written in Perl and uses modules from CPAN (the Comprehensive Perl Archive Network). CPAN modules are
-Copyright (C) the owner/author, and are available in source from CPAN directly. All CPAN modules used are covered by the
-Perl Artistic License.
+WebDyne::Session is written in Perl and uses modules from CPAN (the
+Comprehensive Perl Archive Network).  CPAN modules are Copyright (C) the
+owner/author, and are available in source from CPAN directly.  All CPAN
+modules used are covered by the Perl Artistic License.
 
 =head1 Author
 
@@ -227,7 +232,8 @@ Andrew Speer, andrew@webdyne.org
 
 =head1 Bugs
 
-Please report any bugs or feature requests to "bug-webdyne-session at rt.cpan.org", or via
+Please report any bugs or feature requests to "bug-webdyne-session at
+rt.cpan.org", or via
 http://rt.cpan.org/NoAuth/ReportBug.html?Queue=WebDyne-Session
 
 

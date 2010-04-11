@@ -1,7 +1,7 @@
 #
 #
-#  Copyright (c) 2006-2010 Andrew W. Speer <andrew@webdyne>. All rights 
-#  reserved.
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>.
+#  All rights reserved.
 #
 #  This file is part of WebDyne::Session.
 #
@@ -33,7 +33,7 @@ local $^W=0;
 
 #  Version information. Must be all on one line
 #
-$VERSION='1.002';
+$VERSION='1.004';
 
 
 #  The guts

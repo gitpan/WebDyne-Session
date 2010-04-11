@@ -1,3 +1,19 @@
+commit b8d13449f6eee7bc38328824a802f771a9a46110
+Author: Andrew Speer <andrew.speer@isolutions.com.au>
+Date:   Sun Apr 11 16:48:52 2010 +0930
+
+    Tag: WebDyne-Session_1.033
+    
+    Update copyright and author information, Makefile.PL to generate better META.yml
+
+commit 777aab19c290a90f5b0e57797b6a53f1ff4ae029
+Author: Andrew Speer <aspeer@copper.isolutions.com.au>
+Date:   Sat Apr 10 18:39:34 2010 +0930
+
+    Tag: WebDyne-Session_1.032
+    
+    Made email addesses uniform across module doc, update copyright info
+
 commit 09a74c4883e5005130a28624accb13225ec14b83
 Author: Andrew Speer <aspeer@copper.isolutions.com.au>
 Date:   Sat Apr 10 16:25:27 2010 +0930

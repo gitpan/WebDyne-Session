@@ -1,7 +1,7 @@
 #
 #
-#  Copyright (c) 2006-2010 Andrew W. Speer <andrew@webdyne.org>. All rights 
-#  reserved.
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>.
+#  All rights reserved.
 #
 #  This file is part of WebDyne::Session.
 #
@@ -21,4 +21,4 @@
 #
 #
 package WebDyne::Session::VERSION;
-$VERSION='1.031';
+$VERSION='1.033';
