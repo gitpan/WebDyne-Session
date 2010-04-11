@@ -1,3 +1,51 @@
+commit ce13187b9292b5ace717d013beea85aa0a077630
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 22:10:13 2010 +0930
+
+    Tag: WebDyne-Session_1.040
+    
+    Changed import routine to fix bug working with WebDyne::Chain handler
+
+commit 822021a8e95168a97e099965c719d38374285a3c
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 21:19:51 2010 +0930
+
+    Tag: WebDyne-Session_1.039
+    
+    Updated to YAML spec 1.4
+
+commit 2f289540a5b5a39fbd32e93d995155a4e18aa03c
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 17:43:37 2010 +0930
+
+    Tag: WebDyne-Session_1.038
+
+commit e1371ef21856a9df3070dd051335b8ce7946c957
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 17:40:56 2010 +0930
+
+    Tag: WebDyne-Session_1.037
+
+commit b1b280fd4bf55097a45bd63e0796a90678c9a0c1
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 17:04:31 2010 +0930
+
+    Tag: WebDyne-Session_1.036
+
+commit 506ea84e7e003d6fb87cbe59ac1ce3922cd108e0
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 17:01:26 2010 +0930
+
+    Tag: WebDyne-Session_1.035
+
+commit aa58e65244b09038d88018311d31b64bb91a3d15
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 17:00:21 2010 +0930
+
+    Tag: WebDyne-Session_1.034
+    
+    Updated META.yml
+
 commit b8d13449f6eee7bc38328824a802f771a9a46110
 Author: Andrew Speer <andrew.speer@isolutions.com.au>
 Date:   Sun Apr 11 16:48:52 2010 +0930

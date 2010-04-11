@@ -47,7 +47,7 @@ use CGI::Cookie;
 
 #  Version information
 #
-$VERSION='1.004';
+$VERSION='1.005';
 
 
 #  Shortcut error handler.
@@ -76,7 +76,8 @@ sub import {
     #
     my $self_cr=UNIVERSAL::can(scalar caller, 'self') || return;
     my $self=$self_cr->() || return;
-    $self->set_handler('WebDyne::Session');
+    #$self->set_handler('WebDyne::Session');
+    $self->set_handler('WebDyne::Chain');
     my $meta_hr=$self->meta();
     push @{$meta_hr->{'webdynechain'}}, __PACKAGE__;
 
@@ -107,7 +108,7 @@ sub handler : method {
 
     #  Get cookies hash
     #
-    my %cookies=($cookie && CGI::Cookie->parse($cookie));
+    my %cookies=$cookie ? CGI::Cookie->parse($cookie) : ();
 
 
     #  Get cookie name we are looking for
