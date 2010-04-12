@@ -1,3 +1,11 @@
+commit 684f20caa3a813e089443905071e8f4fd5cdf15e
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Mon Apr 12 12:43:25 2010 +0930
+
+    Tag: WebDyne-Session_1.041
+    
+    clean mm_ver redundancy in Makefile.PL, edit README
+
 commit ce13187b9292b5ace717d013beea85aa0a077630
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Sun Apr 11 22:10:13 2010 +0930

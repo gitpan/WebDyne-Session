@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               WebDyne-Session
-version:            1.040
+version:            1.041
 abstract:           ~
 author:
     - Andrew Speer <andrew@webdyne.org>
