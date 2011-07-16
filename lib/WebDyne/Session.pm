@@ -47,7 +47,7 @@ use CGI::Cookie;
 
 #  Version information
 #
-$VERSION='1.005';
+$VERSION='1.044';
 
 
 #  Shortcut error handler.

@@ -1,3 +1,11 @@
+commit 152f411c4579588838e7e0c2d116d05568babca1
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sat Jul 16 16:32:22 2011 +0930
+
+    Tag: WebDyne-Session_1.044
+    
+    Update to new version standard that keeps dist version in sync with main module version
+
 commit 5173df418c38d03cd8d89a54c2ce92983734c53d
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Wed Jul 13 17:22:58 2011 +0930

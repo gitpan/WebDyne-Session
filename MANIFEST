@@ -4,7 +4,6 @@ LICENSE
 Makefile.PL
 README
 META.yml                                 Module meta-data (added by MakeMaker)
-lib/WebDyne/Session/VERSION.pm
 lib/WebDyne/Session/Constant.pm
 lib/WebDyne/Session.pm
 t/00-load.t
